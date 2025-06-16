@@ -1,0 +1,14 @@
+===== RAPPORT DE RÉPARATION =====
+Date : 16/06/2025 20:56:51
+
+Erreurs détectées :
+1. Vérification incorrecte de "a" (faux négatif si a = 0)
+2. Mauvaise gestion de b === 0 (le test n'est pas nécessaire)
+3. Erreur d'opération (a - b au lieu de a + b)
+
+Correction appliquée : OUI
+
+Résumé :
+Les erreurs ont été corrigées automatiquement. La fonction sum utilise maintenant 'a + b'.
+
+=================================
